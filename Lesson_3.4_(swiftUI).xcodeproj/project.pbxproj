@@ -11,6 +11,7 @@
 		CE52E520283C1B6E00C6945C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE52E51F283C1B6E00C6945C /* ContentView.swift */; };
 		CE52E522283C1B7000C6945C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE52E521283C1B7000C6945C /* Assets.xcassets */; };
 		CE52E525283C1B7000C6945C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE52E524283C1B7000C6945C /* Preview Assets.xcassets */; };
+		CE52E52C283C1DB000C6945C /* SliderUIKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE52E52B283C1DB000C6945C /* SliderUIKit.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		CE52E51F283C1B6E00C6945C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CE52E521283C1B7000C6945C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE52E524283C1B7000C6945C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CE52E52B283C1DB000C6945C /* SliderUIKit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderUIKit.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				CE52E51D283C1B6E00C6945C /* Lesson_3_4__swiftUI_App.swift */,
 				CE52E51F283C1B6E00C6945C /* ContentView.swift */,
+				CE52E52B283C1DB000C6945C /* SliderUIKit.swift */,
 				CE52E521283C1B7000C6945C /* Assets.xcassets */,
 				CE52E523283C1B7000C6945C /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE52E520283C1B6E00C6945C /* ContentView.swift in Sources */,
+				CE52E52C283C1DB000C6945C /* SliderUIKit.swift in Sources */,
 				CE52E51E283C1B6E00C6945C /* Lesson_3_4__swiftUI_App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
